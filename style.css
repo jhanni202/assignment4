@@ -1,12 +1,28 @@
+#slidepic{
+  position: relative;
+}
+
 h1{
     text-align: right;
+}
+h2{
+  font-size: x-large;
 }
 #slideHeading{
     text-align: right;
 }
 #slideText{
     text-align: right;
+    margin-top: 370px;
+    margin-left: 500px;
 }
+a {
+  font-size: x-large;
+}
+#slideText{
+  font-size: large;
+}
+
 
 
 /* Split the screen in half */
